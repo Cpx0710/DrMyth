@@ -6,7 +6,7 @@ The goal of DrMyth is to run the DrMyth flow.
 
 ## Installation
 
-You can install the released version of CIBERSORT from [github](https://github.com/Cpx0710/DrMyth) with:
+You can install the released version of DrMyth from [github](https://github.com/Cpx0710/DrMyth) with:
 
 ``` r
 install.packages("devtools")
