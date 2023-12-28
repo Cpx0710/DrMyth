@@ -2,7 +2,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of DrMyth is to run the DrMyth flow.
+DrMyth is an R package designed for methylation analysis. This software allows users to input a list of methylated genes, enabling the prediction of cancer types in which this gene set may be enriched after methylation. Additionally, users can explore the correlation between methylation markers and levels of immune cell infiltration in specified cancer types.
 
 ## Installation
 
